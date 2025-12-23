@@ -33,6 +33,8 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
-# OUTPUT
+# OUTPUT:
+[EX 05.docx](https://github.com/user-attachments/files/24309840/EX.05.docx)
+
 
 # RESULT: The prompt for the above said problem executed successfully
